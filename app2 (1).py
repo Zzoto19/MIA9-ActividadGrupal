@@ -13,6 +13,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import io
 
+git add requirements.txt
+git commit -m "Añadiendo el archivo requirements.txt con las dependencias"
+git push origin main
+
 # Función principal de la app
 def main():
     st.title('Aplicación Interactiva de Visualización de Datos')
